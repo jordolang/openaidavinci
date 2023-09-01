@@ -10,7 +10,7 @@
         "braintree/braintree_php": "^6.11",
         "google/cloud-text-to-speech": "^1.5",
         "guzzlehttp/guzzle": "^7.7.0",
-        "kingflamez/laravelrave": "*",
+        "kingflamez/laravelrave": "^1.0",
         "konekt/pdf-invoice": "^1.13",
         "laravel/framework": "^9.11",
         "laravel/sanctum": "^2.14.1",
